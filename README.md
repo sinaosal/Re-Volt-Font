@@ -3,3 +3,8 @@ This is the Re-Volt font converted into a .otf & .ttf file for usage from the ga
 This .zip includes the Low Resolution one (Original) and the High Resolution one (RVGL).
 
 Converted by sinaosal. Version 1.1
+
+Text Preview: 
+
+<img src="Preview.PNG" alt="Preview" width="400">
+
